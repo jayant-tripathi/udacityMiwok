@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_bc2c768544549adfcb990e6a3b12272e7b4cc2f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a0a30a81227074b3d908b4cb83e10f45238af37">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14f7077c6e6ae110bca3a5c7ba88c5a02c883126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e50d57b157e07799a3e0913df86433e092a54781">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57d62aafa7972012434cc86d2e1f1e3ab8f47dc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_edd127bce63da59b05b0b7a48d69ad521a41f856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_72f20347fbc3bcbdc7d7c20bfcaa6fb594f6c0fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_49c8e67d2ddf6756ee823bd0d999f2081821a255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_8926e9785fac626b3c43779414e425489a54f968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_78cdff8721736a2350b9d975abe6004749e3dacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c62ebcd5c4544858b1274b85c9a2978b1a135b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_532cde26d14c353fc8dddd9d8385cdc919b4783f/classes.dex" />
+    </item>
+
+</items>

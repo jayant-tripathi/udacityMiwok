@@ -24,24 +24,24 @@
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_two.png"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/family_daughter.png",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_daughter.png"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/number_seven.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_seven.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/family_daughter.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_daughter.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/family_father.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_father.png"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/family_older_sister.png",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_sister.png"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/number_four.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/number_four.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/family_older_sister.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-hdpi/family_older_sister.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-hdpi/number_eight.png",

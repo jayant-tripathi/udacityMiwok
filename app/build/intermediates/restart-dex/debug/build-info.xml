@@ -5,7 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="22040259426004"
+    timestamp="20460366488250"
     token="-5254394149859279852"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="52843348569013"
+        timestamp="24481077783951"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/outputs/apk/app-debug.apk"

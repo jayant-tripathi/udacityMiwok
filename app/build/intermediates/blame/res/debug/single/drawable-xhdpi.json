@@ -20,12 +20,12 @@
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_mustard_yellow.png"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/color_gray.png",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_gray.png"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/number_three.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/number_three.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/color_gray.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_gray.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/color_black.png",
@@ -34,6 +34,10 @@
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/color_brown.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/color_brown.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_play_arrow_black_24dp.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xhdpi/ic_play_arrow_black_24dp.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xhdpi/number_two.png",

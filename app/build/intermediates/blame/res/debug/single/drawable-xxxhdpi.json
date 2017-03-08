@@ -100,6 +100,10 @@
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/color_gray.png"
     },
     {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_play_arrow_black_24dp.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/family_younger_sister.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxxhdpi/family_younger_sister.png"
     },

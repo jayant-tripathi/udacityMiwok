@@ -1,46 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:minHeight="@dimen/list_item_height"
     android:orientation="horizontal"
     tools:background="@color/tan_background">
+
     <ImageView
+        android:id="@+id/miwok_imgView"
         android:layout_width="@dimen/list_item_height"
         android:layout_height="@dimen/list_item_height"
-        android:id="@+id/miwok_imgView"
-        tools:src="@mipmap/ic_launcher"
-        android:background="@color/tan_background"/>
+        android:background="@color/tan_background"
+        tools:src="@mipmap/ic_launcher" />
+
 
     <LinearLayout
         android:id="@+id/miwokTextContainer"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="88dp"
+        android:layout_gravity="center_vertical"
+        android:layout_toRightOf="@+id/miwok_imgView"
         android:orientation="vertical"
         android:paddingLeft="16dp"
-        android:layout_gravity="center_vertical"
         tools:background="@color/category_numbers">
 
         <TextView
             android:id="@+id/miwok_textView"
             android:layout_width="match_parent"
             android:layout_height="0sp"
-            android:textColor="@android:color/white"
-            android:textAppearance="@android:style/TextAppearance.Medium"
-            android:textStyle="bold"
             android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
             android:gravity="bottom"
-            tools:text="lutti"/>
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            tools:text="lutti" />
+
         <TextView
             android:id="@+id/default_textView"
             android:layout_width="match_parent"
             android:layout_height="0sp"
-            android:textColor="@android:color/white"
             android:layout_weight="1"
-            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:background="?android:attr/selectableItemBackground"
             android:gravity="top"
-            tools:text="Normal"/>
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:textColor="@android:color/white"
+            tools:text="Normal" />
     </LinearLayout>
 
-</LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="24dp"
+        android:src="@drawable/ic_play_arrow_black_24dp" />
+
+
+</RelativeLayout>

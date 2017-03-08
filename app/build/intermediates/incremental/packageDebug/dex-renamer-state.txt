@@ -1,7 +1,0 @@
-#Wed Mar 08 19:05:05 IST 2017
-base.0=/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14f7077c6e6ae110bca3a5c7ba88c5a02c883126
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57d62aafa7972012434cc86d2e1f1e3ab8f47dc9/classes.dex
-base.1=/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_57d62aafa7972012434cc86d2e1f1e3ab8f47dc9
-file.0=/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14f7077c6e6ae110bca3a5c7ba88c5a02c883126/classes.dex

@@ -68,10 +68,6 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_edit_text_material.xml"
     },
@@ -124,10 +120,6 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/notification_tile_bg.xml"
     },
@@ -156,24 +148,20 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",

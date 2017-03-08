@@ -15,12 +15,10 @@
  */
 package com.example.android.miwok;
 
-import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.TabLayout;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -31,47 +29,13 @@ public class MainActivity extends AppCompatActivity {
         // Set the content of the activity to use the activity_main.xml layout file
         setContentView(R.layout.activity_main);
 
-        //Numbers Activity
-        TextView numbers = (TextView)findViewById(R.id.numbers);
-        numbers.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent openNumberActivity = new Intent(MainActivity.this, NumbersActivity.class);
-                startActivity(openNumberActivity);
-                Toast.makeText(view.getContext(),"Opened Numbers List.",Toast.LENGTH_SHORT).show();
-            }
-        });
-        //Family Members Activity
-        TextView familyMembers = (TextView)findViewById(R.id.family);
-        familyMembers.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent openFamilyMembersIntent = new Intent(MainActivity.this, FamilyMembersActivity.class);
-                startActivity(openFamilyMembersIntent);
-                Toast.makeText(view.getContext(),"Opened Family Members list.",Toast.LENGTH_SHORT).show();
-            }
-        });
+        ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
+        MiwokPagerAdapter miwokAdapter = new MiwokPagerAdapter(MainActivity.this, getSupportFragmentManager());
+        viewPager.setAdapter(miwokAdapter);
 
-        TextView colorsView = (TextView)findViewById(R.id.colors);
-        colorsView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent openColorsViewIntent = new Intent(MainActivity.this, ColorsActivity.class);
-                startActivity(openColorsViewIntent);
-                Toast.makeText(view.getContext(),"Opened Colors list.",Toast.LENGTH_SHORT).show();
-            }
-        });
-
-        TextView phrasesView = (TextView)findViewById(R.id.phrases);
-        phrasesView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent openPhrasesViewIntent = new Intent(MainActivity.this, PhrasesActivity.class);
-                startActivity(openPhrasesViewIntent);
-                Toast.makeText(view.getContext(),"Opened Phrases list.",Toast.LENGTH_SHORT).show();
-            }
-        });
-
+        TabLayout tabLayout = (TabLayout) findViewById(R.id.sliding_tabs);
+        tabLayout.setupWithViewPager(viewPager);
 
     }
+
 }

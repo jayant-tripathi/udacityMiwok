@@ -18,10 +18,6 @@ public class PhrasesFragment extends Fragment {
 
     private static miwokArrayAdapter itemsAdapter;
 
-    public static void releaseMedia() {
-        itemsAdapter.releaseMediaPlayer();
-    }
-
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -46,5 +42,11 @@ public class PhrasesFragment extends Fragment {
 
         //return super.onCreateView(inflater, container, savedInstanceState);
         return rootView;
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        itemsAdapter.releaseMediaPlayer();
     }
 }

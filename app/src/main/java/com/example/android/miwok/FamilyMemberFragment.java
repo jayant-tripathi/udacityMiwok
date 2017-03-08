@@ -2,6 +2,7 @@ package com.example.android.miwok;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,19 +17,13 @@ import java.util.ArrayList;
 public class FamilyMemberFragment extends Fragment {
 
     private static miwokArrayAdapter itemsAdapter;
-    private static ArrayList<miwokWord> words = new ArrayList<>();
-
-    public FamilyMemberFragment() {
-    }
-
-    public static void releaseMedia() {
-        itemsAdapter.releaseMediaPlayer();
-    }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+
         View rootView = inflater.inflate(R.layout.word_list, container, false);
+
+        ArrayList<miwokWord> words = new ArrayList<>();
 
         words.add(new miwokWord("father", "әpә", R.drawable.family_father, R.raw.family_father));
         words.add(new miwokWord("mother", "әṭa", R.drawable.family_mother, R.raw.family_mother));
@@ -48,4 +43,9 @@ public class FamilyMemberFragment extends Fragment {
         return rootView;
     }
 
+    @Override
+    public void onPause() {
+        super.onPause();
+        itemsAdapter.releaseMediaPlayer();
+    }
 }

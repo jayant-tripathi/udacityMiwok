@@ -4,12 +4,12 @@
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_six.png"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/color_gray.png",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_gray.png"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/number_five.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/number_five.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/color_gray.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_gray.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/number_eight.png",
@@ -48,12 +48,12 @@
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/color_brown.png"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/family_mother.png",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_mother.png"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play_arrow_black_24dp.png",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/family_mother.png",
+        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/drawable-xxhdpi/family_mother.png"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/drawable-xxhdpi/color_black.png",

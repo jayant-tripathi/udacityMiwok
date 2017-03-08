@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/layout/notification_template_big_media.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -52,10 +44,6 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/fragment_holder_layout.xml",
-        "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/layout/fragment_holder_layout.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/select_dialog_multichoice_material.xml"
     },
@@ -80,10 +68,6 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/layout/notification_media_cancel_action.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/notification_template_custom_big.xml"
     },
@@ -96,12 +80,12 @@
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/jayant/.android/build-cache/b44ab19e5ab02b9e4ccb6d3cfb2c4c2a4abecda8/output/res/layout/design_navigation_menu_item.xml"
-    },
-    {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/home/jayant/.android/build-cache/b44ab19e5ab02b9e4ccb6d3cfb2c4c2a4abecda8/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/jayant/.android/build-cache/b44ab19e5ab02b9e4ccb6d3cfb2c4c2a4abecda8/output/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
@@ -110,10 +94,6 @@
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/word_list.xml",
         "source": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/src/main/res/layout/word_list.xml"
-    },
-    {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -150,10 +130,6 @@
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/jayant/.android/build-cache/98bd45f80b1c3f3e261ab77b17038ad2889956f4/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/jayant/.android/build-cache/8f4d5b476f0106ab7301a859cdd4b402784aefda/output/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/home/jayant/Android/Projects/ud839_Miwok-Starter-code/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
